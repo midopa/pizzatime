@@ -1,0 +1,7 @@
+[project]
+name = "pizzatime"
+version = "0.1.0"
+description = "randomly build a pizza"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
